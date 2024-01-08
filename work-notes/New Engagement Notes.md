@@ -1,0 +1,2 @@
+- PR policy, standards and practices
+	- dont close others comments

@@ -1,0 +1,9 @@
+- invoicing 3rd partys (ford field, dominos)
+- internal consumers vs external customers
+	- fcsd, ford pro
+	- end user
+	- fleet 
+	- csr
+	- LA - Lending (A)
+		- upstream, credit consumes this data
+- 
