@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7acf55c7dbf23b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -161,10 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "399fac1227cf2ee9",
+  "active": "7acf55c7dbf23b13",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled.md",
+    "Untitled 1.md",
     "New Engagement Notes.md",
     "Welcome.md"
   ]
