@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ed148319f483cc29",
+        "id": "41bc0c3282242efa",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fd4fb5effd23eb",
+            "id": "6c38a05942e71192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Engagement Notes.md",
+                "file": "New Engagement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "399fac1227cf2ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acf55c7dbf23b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "New Engagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "New Engagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "New Engagement.md"
               }
             }
           }
@@ -174,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7acf55c7dbf23b13",
+  "active": "6c38a05942e71192",
   "lastOpenFiles": [
-    "Untitled.md",
+    "New Engagement.md",
     "Untitled 1.md",
-    "New Engagement Notes.md",
+    "Untitled.md",
     "Welcome.md"
   ]
 }
