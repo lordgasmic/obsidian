@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "206353e8207df9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ford Vehicle Finder.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c5eef46f20d9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slack-Notion App.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Engagement.md",
+                "file": "Slack-Notion App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Engagement.md",
+                "file": "Slack-Notion App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Engagement.md"
+                "file": "Slack-Notion App.md"
               }
             }
           }
@@ -147,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c38a05942e71192",
+  "active": "10c5eef46f20d9c1",
   "lastOpenFiles": [
+    "Ford Vehicle Finder.md",
+    "Slack-Notion App.md",
     "New Engagement.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,8 @@
+- there is an existing app, but it doesnt do search
+	- create tasks
+	- see real time messages in notion
+	- control notifications
+	- expandable notion links
+- ml api in notion?
+- search optimizations?
+- search query fuzzy/stemming?
