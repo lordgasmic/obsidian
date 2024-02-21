@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53319b3245f703e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cdn token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitive.io/Definitive IO - Sales call (20240208).md",
+                "file": "cdn token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitive.io/Definitive IO - Sales call (20240208).md",
+                "file": "cdn token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitive.io/Definitive IO - Sales call (20240208).md"
+                "file": "cdn token.md"
               }
             }
           }
@@ -200,10 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44aa0a691529dafe",
+  "active": "53319b3245f703e4",
   "lastOpenFiles": [
-    "definitive.io/groq funtimez.md",
     "definitive.io/Definitive IO - Sales call (20240208).md",
+    "cdn token.md",
+    "definitive.io/groq funtimez.md",
     "definitive.io",
     "Slack-Notion App.md",
     "Ford Vehicle Finder.md",
