@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/general notes.md",
+                "file": "definitive.io/groq funtimez.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/general notes.md",
+                "file": "definitive.io/groq funtimez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/general notes.md",
+                "file": "definitive.io/groq funtimez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/general notes.md"
+                "file": "definitive.io/groq funtimez.md"
               }
             }
           }
@@ -215,11 +215,11 @@
   },
   "active": "53319b3245f703e4",
   "lastOpenFiles": [
-    "cdn token.md",
-    "android/general notes.md",
-    "android",
     "definitive.io/Definitive IO - Sales call (20240208).md",
     "definitive.io/groq funtimez.md",
+    "android/general notes.md",
+    "cdn token.md",
+    "android",
     "definitive.io",
     "Slack-Notion App.md",
     "Ford Vehicle Finder.md",

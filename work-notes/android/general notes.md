@@ -9,3 +9,4 @@ Modifier - agument or decerate a @Composable
 - dp - density-independant pixels, unit for Material UI 3
 var blah by remember { mutableStateOf() }
 - remember alowsy recomposition
+suspend key word - make api calls asyncronus
